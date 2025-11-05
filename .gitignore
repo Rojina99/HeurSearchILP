@@ -1,0 +1,10 @@
+old/
+data/
+*__pycache__*
+*.DS_Store*
+*.idea*
+ILASP/
+Popper/
+command_run
+__pycache__/
+*.pyc
