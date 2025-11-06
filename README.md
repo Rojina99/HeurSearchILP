@@ -98,7 +98,7 @@ This repository and the accompanying experiments were developed by:
   University of South Carolina
   GitHub: [forestagostinelli](https://github.com/forestagostinelli)
 
-If you encounter any issues while running the code or notice any errors, **please feel free to contact us** at **rpanta@email.sc.edu**.
+If you encounter any issues while running the code or notice any errors, **please feel free to contact us** at **rpanta@email.sc.edu**
 
 
 
