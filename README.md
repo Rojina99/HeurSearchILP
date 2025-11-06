@@ -98,6 +98,11 @@ This repository and the accompanying experiments were developed by:
   University of South Carolina
   GitHub: [forestagostinelli](https://github.com/forestagostinelli)
 
+## License
+
+This project is licensed under the terms of the **MIT License**.  
+See the full text in the [LICENSE](LICENSE) file.
+
 If you encounter any issues while running the code or notice any errors, **please feel free to contact us** at **rpanta@email.sc.edu**
 
 
