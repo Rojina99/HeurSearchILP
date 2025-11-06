@@ -109,8 +109,8 @@ If you encounter any issues while running the code or notice any errors, **pleas
 
 This repository is associated with the following topics to improve discoverability and categorization:
 
-`inductive-logic-programming` · `ilp` · `logic-programming` · `heuristic-search` ·  
-`search-algorithms` · `popper` · `prolog` · `pyswip` ·  
+inductive-logic-programming · ilp · logic-programming · heuristic-search ·  
+search-algorithms · popper · prolog · pyswip ·  
 `machine-learning` · `deep-learning` · `explainable-ai` ·  
  `reinforcement-learning` · `n-puzzle` · `a-star` · 
 `logic-heuristics` · `research-code`
