@@ -4,7 +4,7 @@ To set up the repository, refer to the accompanying **`requirements.txt`** and *
 
 A verified installation guide for **Red Hat Enterprise Linux 9.5 (Plow)**, 64-bit (**x86_64 architecture**, kernel **5.14.0**) is provided here:
 
-➡️ [**Installation Instructions**](INSTALL.md)
+- [**Installation Instructions**](INSTALL.md)
 
 ## Prerequisites
 
@@ -58,15 +58,15 @@ There are four main experiments in the paper **Astar data without predicate reus
 
 ## 1. Running code for Predicate Reuse and No Predicate Reuse with Astar data
 
-➡️ [**Running Instructions**](ilp_with_astar_data/README.md)
+- [**Running Code for astar Data Instructions**](ilp_with_astar_data/README.md)
 
 ## 2. Running code for Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier
 
-➡️ [**Running Instructions**](supervised_data_pred_reuse/README.md)
+- [**Running code for supervised data predicate reuse Instructions**](supervised_data_pred_reuse/README.md)
 
 ## 3. Running code for No Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier
 
-➡️ [**Running Instructions**](supervised_data_no_pred_reuse/README.md)
+- [**Running code for supervised data no predicate reuse Instructions**](supervised_data_no_pred_reuse/README.md)
 
 
  
