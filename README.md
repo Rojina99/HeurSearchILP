@@ -76,15 +76,18 @@ This repository and the accompanying experiments were developed by:
 
 - **Rojina Panta**  
   Department of Computer Science and Engineering  
-  University of South Carolina  
+  University of South Carolina
+  GitHub: [Rojina99](https://github.com/Rojina99) 
 
 - **Vedant Khandelwal**  
   Department of Computer Science and Engineering  
-  University of South Carolina  
+  University of South Carolina
+  GitHub: [khvedant02](https://github.com/khvedant02)  
 
 - **Celeste Veronese**  
   Department of Computer Science  
-  University of Verona  
+  University of Verona
+  GitHub: [vrncst](https://github.com/vrncst)
 
 - **Daniele Meli**  
   Department of Computer Science  
@@ -93,6 +96,7 @@ This repository and the accompanying experiments were developed by:
 - **Forest Agostinelli**  
   Department of Computer Science and Engineering  
   University of South Carolina
+  GitHub: [forestagostinelli](https://github.com/forestagostinelli)
 
 If you encounter any issues while running the code or notice any errors, **please feel free to contact us** at **rpanta@email.sc.edu**.
 
