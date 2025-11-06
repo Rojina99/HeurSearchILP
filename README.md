@@ -56,17 +56,11 @@ python ilp_gen_supervised_data/gen_labeled_data.py --env puzzle8 --depth 31 --sa
 
 There are four main experiments in the paper **Astar data without predicate reuse**, **Astar data with predicate reuse**, **Supervised data without predicate reuse**, **Supervised data with predicate reuse**. Script to generate each of the experiments will be shown.
 
-## 1. Running code for Predicate Reuse and No Predicate Reuse with Astar data
+## 1. [Running code for Predicate Reuse and No Predicate Reuse with Astar data Instructions](ilp_with_astar_data/README.md)
 
-- [**Running Code for astar Data Instructions**](ilp_with_astar_data/README.md)
+## 2. [Running code for Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier Instructions](supervised_data_pred_reuse/README.md)
 
-## 2. Running code for Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier
-
-- [**Running code for supervised data predicate reuse Instructions**](supervised_data_pred_reuse/README.md)
-
-## 3. Running code for No Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier
-
-- [**Running code for supervised data no predicate reuse Instructions**](supervised_data_no_pred_reuse/README.md)
+## 3. [Running code for No Predicate Reuse with Supervised data (i.e. data/puzzle.pkl) generated earlier Instrucitons](supervised_data_no_pred_reuse/README.md)
 
 
  
