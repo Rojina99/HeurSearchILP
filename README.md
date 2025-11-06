@@ -68,5 +68,33 @@ There are four main experiments in the paper **Astar data without predicate reus
 
 - [**Running Instructions**](supervised_data_no_pred_reuse/README.md)
 
+## Contributors
+
+This repository and the accompanying experiments were developed by:
+
+- **Rojina Panta**  
+  Department of Computer Science and Engineering  
+  University of South Carolina  
+
+- **Vedant Khandelwal**  
+  Department of Computer Science and Engineering  
+  University of South Carolina  
+
+- **Celeste Veronese**  
+  Department of Computer Science  
+  University of Verona  
+
+- **Daniele Meli**  
+  Department of Computer Science  
+  University of Verona  
+
+- **Forest Agostinelli**  
+  Department of Computer Science and Engineering  
+  University of South Carolina
+
+If you encounter any issues while running the code or notice any errors, **please feel free to contact us** at **rpanta@email.sc.edu**.
+
+
+
 
  
