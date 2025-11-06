@@ -2,7 +2,7 @@
 
 # Heuristic-Driven ILP Rule Learning and Evaluation for `ilp_with_astar_data/final_parallel.py`
 
-1. `ilp_with_astar_data/final_parallel.py`: For learning ILP rules for predicate invention.
+1. `ilp_with_astar_data/final_parallel.py`: For learning ILP rules for predicate reuse.
 2. `test_heur_script/test_heuristic_performance_no_a_star.py`:  For evaluating the performance of the learned ILP heuristic.
 3.  `test_heur_script/test_heuristic_performance_astar.py`: For evaluating the performance of the learned ILP heuristic by solving them.
 
@@ -41,7 +41,7 @@ This script iteratively learns Prolog rules for increasing depths (costs-to-go).
         --astar_retry_increment 5000
     ```
 
-    # Actual parameter used for experiment with --states_per_astar_total 50, 100, 500, 1000, 2000 and --num_astar_workers 64
+    # Actual parameter used for experiment with --states_per_astar_total 50, 100, 500, 1000, 2000 and --num_astar_workers 16
 
     ```bash
     python ilp_with_astar_data/final_parallel.py \
