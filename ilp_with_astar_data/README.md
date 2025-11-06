@@ -183,4 +183,4 @@ This script takes the learned rules from `ilp_with_astar_data/final_parallel.py`
 * A CSV file (e.g., `puzzle8_output_depth_31_all_dataset_1000.csv`) containing per-problem statistics, including whether it was solved, cost, expansions, time, initial heuristic value, and the solution path.
 ``
 
-## Same format of script will work for `ilp_with_astar_data/final_parallel_no_predicate_invention.py` except use`ilp_with_astar_data/final_parallel_no_predicate_invention.py` instead of  `ilp_with_astar_data/final_parallel.py` while running scripts and use different `--model_dir` so learned model will not be overwritten in case of no predicate reuse.
+# Same format of script will work for `ilp_with_astar_data/final_parallel_no_predicate_invention.py` except use`ilp_with_astar_data/final_parallel_no_predicate_invention.py` instead of  `ilp_with_astar_data/final_parallel.py` while running scripts and use different `--model_dir` so learned model will not be overwritten in case of no predicate reuse.
