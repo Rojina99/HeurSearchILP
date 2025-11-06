@@ -54,6 +54,8 @@ mkdir data
 python ilp_gen_supervised_data/gen_labeled_data.py --env puzzle8 --depth 31 --save test_data/puzzle8.pkl
 ```
 
+The generated dataset has 181440 states in total
+
 There are four main experiments in the paper **Astar data without predicate reuse**, **Astar data with predicate reuse**, **Supervised data without predicate reuse**, **Supervised data with predicate reuse**. Script to generate each of the experiments will be shown.
 
 ## 1. Running code for Predicate Reuse and No Predicate Reuse with Astar data
