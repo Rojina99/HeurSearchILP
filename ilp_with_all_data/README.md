@@ -38,7 +38,7 @@ This script iteratively learns Prolog rules for increasing depths (costs-to-go).
         --time_out {timeout}
     ```
 
-     # Actual parameter used for experiment with --num_astar_workers 16
+     # Actual parameter used for experiment
 
     ```bash
         python ilp_with_all_data/final_parallel_all_dataset.py  \
