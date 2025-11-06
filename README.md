@@ -39,7 +39,7 @@ A verified installation guide for **Red Hat Enterprise Linux 9.5 (Plow)**, 64-bi
         * `saved_test_data_45`
         * `saved_test_data_astar`
 
-Once the environment is setup is completed run :
+Once the environment setup is completed run :
 
 ```
 source setup.sh
