@@ -34,7 +34,7 @@ A verified installation guide for **Red Hat Enterprise Linux 9.5 (Plow)**, 64-bi
     * `puzzle8_rules_source_new/` (or similar, specified by `--learned_program_dir`)
         * `bk.pl` (base background knowledge for Popper)
         * `bias.pl` (Popper's declarative bias)
-        I have also included archive to store older and new version of background file and bias file. Not required for running and getting reusults for now.
+        We have also included archive to store older and new version of background file and bias file. Not required for running and getting reusults for now.
     * `test_data` folder that contains test dataset used in paper, you can generate and use your own test dataset as well. It is in pickle format.
         * `saved_test_data_45`
         * `saved_test_data_astar`
@@ -51,7 +51,7 @@ Then generate **supervised dataset** for **8-puzzle** with
 
 ```
 mkdir data
-python ilp_gen_supervised_data/gen_labeled_data.py --env puzzle8 --depth 31 --save test_data/puzzle8.pkl
+python ilp_gen_supervised_data/gen_labeled_data.py --env puzzle8 --depth 31 --save data/puzzle8.pkl
 ```
 
 The generated dataset has 181440 states in total
