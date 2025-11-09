@@ -83,7 +83,7 @@ This pre release bundles trained models and evaluation outputs and zip file cont
 - `a_star_data_no_pr` : Model learned with a_star data withou predicate reuse
 - `supervised_data` : Model learned with supervised data without predicate reuse and with predicate reuse
 
-* Result of A* Search with learned models is in folder `test_result_for_learned_models_with_a_star`. We use model learned with sample size 1000, 2000 for the one learned with a_star data.
+Result of A* Search with learned models is in folder `test_result_for_learned_models_with_a_star`. We use model learned with sample size 1000, 2000 for the one learned with a_star data.
 
 For `test_result_for_learned_models_with_a_star` nodes is expanded nodes instead of nodes generated and nodes/second is calculated for nodes expanded per time in second for each fifty samples.
 
