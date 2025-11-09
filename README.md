@@ -70,6 +70,25 @@ There are four main experiments in the paper **Astar data without predicate reus
 
 - [**Running Instructions**](supervised_data_no_pred_reuse/README.md)
 
+## Download Learned Models and Test Results
+
+You can download the trained heuristic models and evaluation outputs here:
+
+**[learned_models_and_test_result.zip](https://github.com/Rojina99/HeurSearchILP/releases/tag/learned_models)**
+
+This pre-release bundles trained models and evaluation outputs.
+
+This ZIP file contains models learned using different version of HeurSearchILP
+
+# The learned models are in thee folder 
+- `a_star_data_pr`: Model learned with a_star data with predicate reuse
+- `a_star_data_no_pr` : Model learned with a_star data withou predicate reuse
+- `supervised_data` : Model learned with supervised data without predicate reuse and with predicate reuse
+
+# Result of A* Search with learned models is in folder `test_result_for_learned_models_with_a_star`. We use model learned with sample size 1000, 2000 for the one learned with a_star data.
+
+For `test_result_for_learned_models_with_a_star` nodes is expanded nodes instead of nodes generated and nodes/second is calculated for nodes expanded per time in second for each fifty samples.
+
 ## Contributors
 
 This repository and the accompanying experiments were developed by:
