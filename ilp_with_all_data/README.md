@@ -141,14 +141,14 @@ This script takes the learned rules from `ilp_with_all_data/final_parallel_all_d
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 600 \
         --max_expansions_per_problem 1000 \
-        --output_file {full_model_dir}/puzzle8_output_astar_test.csv \
+        --output_file {full_model_dir}/puzzle8_output_astar_test.csv
     ```
 
     # Actual parameter used for experiment for 50 test set
 
     ```bash
     python test_heur_script/test_heuristic_performance_astar.py \
-        --rules_file puzzle_8_output_depth_31_new_all_dataset/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ci_1_time_out_1800_all/master_learned_ilp_rules.pkl \ 
+        --rules_file puzzle_8_output_depth_31_new_all_dataset/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ci_1_time_out_1800_all/master_learned_ilp_rules.pkl \
         --popper_run_base_dir puzzle_8_output_depth_31_new_all_dataset/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ci_1_time_out_1800_all/popper_runs \
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 1000 \
