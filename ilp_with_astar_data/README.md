@@ -161,7 +161,7 @@ This script takes the learned rules from `ilp_with_astar_data/final_parallel.py`
 
     ```bash
     python test_heur_script/test_heuristic_performance_astar.py \
-        --rules_file puzzle8_output_depth_31_new_4_v1/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ip_states_each_depth_50_ss_500_a_star_bs_1_ci_1_a_star_exp_start_1000_workers_16_rm_5.0_ri_5000/master_learned_ilp_rules.pkl \ 
+        --rules_file puzzle8_output_depth_31_new_4_v1/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ip_states_each_depth_50_ss_500_a_star_bs_1_ci_1_a_star_exp_start_1000_workers_16_rm_5.0_ri_5000/master_learned_ilp_rules.pkl \
         --popper_run_base_dir puzzle8_output_depth_31_new_4_v1/env_puzzle8_pdir_puzzle8_rules_source_new_depth_31_ip_states_each_depth_50_ss_500_a_star_bs_1_ci_1_a_star_exp_start_1000_workers_16_rm_5.0_ri_5000/popper_runs \
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 1000 \
