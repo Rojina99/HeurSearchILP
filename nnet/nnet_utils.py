@@ -10,7 +10,7 @@ import re
 from torch import Tensor
 from torch.multiprocessing import Queue, get_context
 from multiprocessing.process import BaseProcess
-from fpdb import ForkedPdb as forked_pdb
+# from fpdb import ForkedPdb as forked_pdb
 # from heur.heur_ilp import HeurComb, HeurILP
 from heur.test_prolog_heur import HeurComb, HeurILP
 import pickle
