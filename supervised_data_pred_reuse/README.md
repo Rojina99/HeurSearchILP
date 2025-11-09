@@ -147,14 +147,14 @@ This script takes the learned rules from `supervised_data_pred_reuse/solve_tasks
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 600 \
         --max_expansions_per_problem 1000 \
-        --output_file {full_model_dir}/puzzle8_output_astar_test.csv \
+        --output_file {full_model_dir}/puzzle8_output_astar_test.csv
     ```
 
     # Actual parameter used for experiment for 50 test set
 
     ```bash
     python test_heur_script/test_heuristic_performance_astar.py \
-        --rules_file tasks_1_5_p_r/master_learned_ilp_rules.pkl \ 
+        --rules_file tasks_1_5_p_r/master_learned_ilp_rules.pkl \
         --popper_run_base_dir tasks_1_5_p_r/popper_runs \
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 1000 \

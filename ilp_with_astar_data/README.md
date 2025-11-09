@@ -154,7 +154,7 @@ This script takes the learned rules from `ilp_with_astar_data/final_parallel.py`
         --test_data_file test_data/saved_test_data_astar/eight_puzzle_states.pkl \
         --time_limit_seconds 600 \
         --max_expansions_per_problem 1000 \
-        --output_file {full_model_dir}/puzzle8_output_astar_test.csv \
+        --output_file {full_model_dir}/puzzle8_output_astar_test.csv
     ```
 
     # Actual parameter used for experiment for 50 test set
